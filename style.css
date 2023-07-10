@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    text-align: center;
+    
+}
+.Player{
+    display: inline-block;
+    margin: 5%;
+}
+img{
+    height: 200px;
+}
+h2{
+    margin: 0;
+    display: inline-block;
+}
+.kill{
+    color: white;
+}
